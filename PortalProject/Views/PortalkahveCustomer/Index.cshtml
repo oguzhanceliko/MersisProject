@@ -1,0 +1,26 @@
+﻿@model EntityLayer.Concrete.PortalkahveCustomer
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="" id="contact">
+    <h2>Portal Kahve Müşteri Kayıt</h2>
+    @using (Html.BeginForm("Index", "PortalkahveCustomer", FormMethod.Post))
+    {
+
+        <input type="text" class="form-control" name="PortalkahveCustomerName" placeholder="Name" />
+        <br />
+        <input type="text" class="form-control" name="PortalkahveCustomerSurname" placeholder="Surname" />
+        <br />
+        <input type="number" class="form-control" name="PortalkahveCustomerIdentityNumber" placeholder="Identity Number" />
+        <br />
+        <input type="date" class="form-control" name="PortalkahveCustomerBirtdate" placeholder="Birt date">
+
+        <br />
+        <button class="btn btn-primary" type="submit">
+            <i class="fa fa-paper-plane"></i> Kayıt Ekle
+        </button>
+    }
+</div>
+

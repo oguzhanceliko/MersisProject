@@ -1,0 +1,12 @@
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\RoysBABA\source\repos\PortalProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache

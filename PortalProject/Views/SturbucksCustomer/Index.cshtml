@@ -1,0 +1,25 @@
+﻿@model EntityLayer.Concrete.SturbucksCustomer
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="" id="contact">
+    <h2>Sturbucks Müşteri Kayıt</h2>
+    @using (Html.BeginForm("Index", "SturbucksCustomer", FormMethod.Post))
+    {
+
+        <input type="text" class="form-control" name="SturbucksCustomerName" placeholder="İsim" />
+        <br />
+        <input type="text" class="form-control" name="SturbucksCustomerSurname" placeholder="Soyisim" />
+        <br />
+        <input type="number" class="form-control" name="SturbucksCustomerIdentityNumber" placeholder="Tc Kimlik No"/>
+        <br />
+        <input type="date" class="form-control" name="SturbucksCustomerBirtdate" placeholder="Doğum tarihi">
+
+        <br />
+        <button class="btn btn-primary" type="submit">
+            <i class="fa fa-paper-plane"></i> Kayıt Ekle
+        </button>
+    }
+</div>
